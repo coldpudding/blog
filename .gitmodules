@@ -1,0 +1,3 @@
+[submodule "themes/icarus"]
+	path = themes/icarus
+	url = http://code.local:3000/OpenSource/hexo-theme-icarus.git
